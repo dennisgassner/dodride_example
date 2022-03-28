@@ -32,6 +32,4 @@ public class PersistedFlight {
 
     private int extraFarePercentage;
 
-    //BOOKINGS
-
 }
